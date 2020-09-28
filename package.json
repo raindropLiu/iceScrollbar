@@ -1,0 +1,21 @@
+{
+  "name": "ice-scrollbar",
+  "version": "1.1.0",
+  "description": "scrollbar for vue ,jsx from ElElement",
+  "main": "dist/scrollbar.js",
+  "style": "dist/scrollbar.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "icecover",
+  "license": "ISC",
+
+  "devDependencies": {
+    "resize-observer-polyfill": "^1.5.0"
+  },
+  "devDependencies": {
+    "babel-helper-vue-jsx-merge-props": "^2.0.3",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-vue-jsx": "^3.5.0"
+  }
+}
